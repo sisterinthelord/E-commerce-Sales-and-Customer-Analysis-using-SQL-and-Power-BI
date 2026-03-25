@@ -4,9 +4,9 @@
 
 📘 Project Overview
 
-This project analyzes a structured e-commerce dataset sourced from Kaggle, containing customer transactions, product details, payment behaviour, and ratings.
+This project analyzes an e-commerce dataset sourced from Kaggle, focusing on customer behaviour, product performance, and payment trends.
 
-The goal is to uncover customer purchasing patterns, product performance, and payment insights using SQL for data analysis and Power BI for visualisation, ultimately delivering actionable business insights through an interactive dashboard.
+Using SQL for data exploration and Power BI for visualization, the project uncovers key business insights and presents them through an interactive dashboard.
 
 
 🎯 Objectives
@@ -56,6 +56,12 @@ Created Age Group column in Power BI for segmentation
 | Revenue Over Time            | Identifies spending trends across dates                       |
 
 
+📊 Exploratory Data Analysis
+Key Metrics
+Total Orders: 49
+Total Revenue: 1628
+Average Payment Value: 33.22
+Average Rating: 3.62
 
 
 👥 Customer Segmentation
@@ -70,6 +76,15 @@ Customers were grouped into:
 
 This segmentation helps identify which age groups contribute most to sales and engagement.
 
+📈 Dashboard Features
+KPI summary (Revenue, Orders, Ratings)
+Revenue by Brand
+Revenue by Gender
+Payment Method Distribution
+Top Customers by Spend
+Highest Rated Brands
+Revenue Trend Over Time
+
 
 📈 Key Metrics
 Total Revenue → Sum of all transactions
@@ -78,21 +93,24 @@ Average Payment Value → Average spend per transaction
 Average Rating → Customer satisfaction level
 
 
-🧭 Key Findings
-A small number of customers account for a disproportionately high share of total revenue
-Certain brands dominate both sales and customer ratings
-Customers within specific age groups contribute more significantly to revenue
-Digital payment methods (credit/debit) are the most commonly used
-Average rating indicates generally positive customer satisfaction
-
+🧭 Key Insights
+ASUS generated the highest total revenue, indicating strong product demand.
+Customers aged 26–35 contributed the largest share of sales, making them a key target segment.
+Debit card is the most frequently used payment method, highlighting customer preference for direct payments.
+The average rating of 3.62 suggests moderate customer satisfaction, indicating room for improvement.
+A small group of customers contributes a significant portion of total revenue, showing the presence of high-value users.
+USHA has the highest average rating (4.3), indicating strong customer satisfaction and product quality.
+Sales peaked in February, suggesting a potential seasonal or promotional trend.
 
 
 🧠 Business Recommendations
-Target high-value customers with loyalty and retention strategies
-Promote top-performing brands through marketing campaigns
-Focus on preferred payment methods to streamline checkout experience
-Personalize marketing based on age group behaviour
-Monitor lower-rated products to improve customer satisfaction
+Increase marketing focus on high-performing brands like ASUS
+Develop loyalty programs for top-spending customers
+Optimize debit card payment experience for smoother transactions
+Improve lower-rated products to enhance customer satisfaction
+Promote highly rated brands (e.g., USHA) to boost trust and conversions
+Target the 26–35 age group with personalized campaigns
+Align promotions with observed sales peaks (e.g., February trends)
 
 
 
