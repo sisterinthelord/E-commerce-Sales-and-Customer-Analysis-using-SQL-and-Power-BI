@@ -70,55 +70,87 @@ Age Group Segmentation
 Customers were grouped into:
 
 15–25,
+
 26–35,
+
 36–45,
+
 46+
 
 This segmentation helps identify which age groups contribute most to sales and engagement.
 
 📈 Dashboard Features
+
 KPI summary (Revenue, Orders, Ratings)
+
 Revenue by Brand
+
 Revenue by Gender
+
 Payment Method Distribution
+
 Top Customers by Spend
+
 Highest Rated Brands
+
 Revenue Trend Over Time
 
 
 📈 Key Metrics
+
 Total Revenue → Sum of all transactions
+
 Total Orders → Number of purchases
+
 Average Payment Value → Average spend per transaction
+
 Average Rating → Customer satisfaction level
 
 
+
 🧭 Key Insights
+
 ASUS generated the highest total revenue, indicating strong product demand.
 
 Customers aged 26–35 contributed the largest share of sales, making them a key target segment.
+
 Debit card is the most frequently used payment method, highlighting customer preference for direct payments.
+
 The average rating of 3.62 suggests moderate customer satisfaction, indicating room for improvement.
+
 A small group of customers contributes a significant portion of total revenue, showing the presence of high-value users.
+
 USHA has the highest average rating (4.3), indicating strong customer satisfaction and product quality.
+
 Sales peaked in February, suggesting a potential seasonal or promotional trend.
 
 
 🧠 Business Recommendations
+
 Increase marketing focus on high-performing brands like ASUS
+
 Develop loyalty programs for top-spending customers
+
 Optimize debit card payment experience for smoother transactions
+
 Improve lower-rated products to enhance customer satisfaction
+
 Promote highly rated brands (e.g., USHA) to boost trust and conversions
+
 Target the 26–35 age group with personalized campaigns
+
 Align promotions with observed sales peaks (e.g., February trends)
 
 
 
 💻 Tools Used
+
 SQL (SQL Server / SSMS) → Data exploration and analysis,
+
 Power BI → Dashboard creation and visualisation,
+
 DAX → Calculated columns and measures (e.g., Age Group, KPIs).
+
 
 📂 Project Structure
 Ecommerce-Analysis/
