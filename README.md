@@ -79,6 +79,8 @@ Customers were grouped into:
 
 This segmentation helps identify which age groups contribute most to sales and engagement.
 
+
+
 📈 Dashboard Features
 
 KPI summary (Revenue, Orders, Ratings)
@@ -96,6 +98,9 @@ Highest Rated Brands
 Revenue Trend Over Time
 
 
+
+
+
 📈 Key Metrics
 
 Total Revenue → Sum of all transactions
@@ -105,6 +110,9 @@ Total Orders → Number of purchases
 Average Payment Value → Average spend per transaction
 
 Average Rating → Customer satisfaction level
+
+
+
 
 
 
@@ -125,6 +133,10 @@ USHA has the highest average rating (4.3), indicating strong customer satisfacti
 Sales peaked in February, suggesting a potential seasonal or promotional trend.
 
 
+
+
+
+
 🧠 Business Recommendations
 
 Increase marketing focus on high-performing brands like ASUS
@@ -143,6 +155,9 @@ Align promotions with observed sales peaks (e.g., February trends)
 
 
 
+
+
+
 💻 Tools Used
 
 SQL (SQL Server / SSMS) → Data exploration and analysis,
@@ -150,6 +165,11 @@ SQL (SQL Server / SSMS) → Data exploration and analysis,
 Power BI → Dashboard creation and visualisation,
 
 DAX → Calculated columns and measures (e.g., Age Group, KPIs).
+
+
+
+
+
 
 
 📂 Project Structure
@@ -169,16 +189,29 @@ Ecommerce-Analysis/
 └── screenshots/
     └── dashboard.png
 
+
+
+    
+
     📸 Visuals
 
 <img width="1350" height="750" alt="image" src="https://github.com/user-attachments/assets/dd671a3f-ec94-4adf-88fd-937a0e4757a2" />
 
 
+
+
 KPI Summary (Revenue, Orders, Ratings),
+
 Top Brands by Revenue,
+
 Customer Gender & Age Distribution,
+
 Payment Type Breakdown,
+
 Revenue Trend Over Time.
+
+
+
 
 
 
