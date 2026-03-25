@@ -138,7 +138,8 @@ Ecommerce-Analysis/
 
     📸 Visuals
 
-(Insert your Power BI screenshots here)
+<img width="1350" height="750" alt="image" src="https://github.com/user-attachments/assets/dd671a3f-ec94-4adf-88fd-937a0e4757a2" />
+
 
 KPI Summary (Revenue, Orders, Ratings)
 Top Brands by Revenue
