@@ -95,6 +95,7 @@ Average Rating → Customer satisfaction level
 
 🧭 Key Insights
 ASUS generated the highest total revenue, indicating strong product demand.
+
 Customers aged 26–35 contributed the largest share of sales, making them a key target segment.
 Debit card is the most frequently used payment method, highlighting customer preference for direct payments.
 The average rating of 3.62 suggests moderate customer satisfaction, indicating room for improvement.
