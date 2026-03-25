@@ -134,11 +134,7 @@ Ecommerce-Analysis/
 │
 ├── README.md
 └── screenshots/
-    ├── dashboard_overview.png
-    ├── top_brands.png
-    ├── payment_analysis.png
-    └── customer_insights.png
-
+    └── dashboard.png
 
     📸 Visuals
 
