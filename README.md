@@ -69,9 +69,9 @@ Age Group Segmentation
 
 Customers were grouped into:
 
-15–25
-26–35
-36–45
+15–25,
+26–35,
+36–45,
 46+
 
 This segmentation helps identify which age groups contribute most to sales and engagement.
@@ -115,9 +115,9 @@ Align promotions with observed sales peaks (e.g., February trends)
 
 
 💻 Tools Used
-SQL (SQL Server / SSMS) → Data exploration and analysis
-Power BI → Dashboard creation and visualisation
-DAX → Calculated columns and measures (e.g., Age Group, KPIs)
+SQL (SQL Server / SSMS) → Data exploration and analysis,
+Power BI → Dashboard creation and visualisation,
+DAX → Calculated columns and measures (e.g., Age Group, KPIs).
 
 📂 Project Structure
 Ecommerce-Analysis/
@@ -141,11 +141,11 @@ Ecommerce-Analysis/
 <img width="1350" height="750" alt="image" src="https://github.com/user-attachments/assets/dd671a3f-ec94-4adf-88fd-937a0e4757a2" />
 
 
-KPI Summary (Revenue, Orders, Ratings)
-Top Brands by Revenue
-Customer Gender & Age Distribution
-Payment Type Breakdown
-Revenue Trend Over Time
+KPI Summary (Revenue, Orders, Ratings),
+Top Brands by Revenue,
+Customer Gender & Age Distribution,
+Payment Type Breakdown,
+Revenue Trend Over Time.
 
 
 
